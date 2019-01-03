@@ -1,0 +1,6 @@
+amazing_forms.demo:
+   title: 'Hello'
+   description: 'Hello page'
+   parent: main
+   menu_name: main
+   url: http://example.com/this-is-some-example
